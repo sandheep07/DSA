@@ -2,7 +2,7 @@
 
 Here we post solutions of various data structure and algorithm problems from leet code, hackerrank and hackerearth
 
-Language used: java
+Language used: "java"
 
 Author:
 <br>
