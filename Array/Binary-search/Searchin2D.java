@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.Arrays;;
 
 public class Searchin2D {
     public static void main(String[] args) {
